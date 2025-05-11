@@ -1,0 +1,1 @@
+When making versions 1.0 and 2.0, I forgot to package the resources. All the resources were packaged at version 3.0
